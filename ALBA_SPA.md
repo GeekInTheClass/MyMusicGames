@@ -2,7 +2,7 @@
 
 ## 1. 개요
 
-beatmania IIDX 의 수록곡. 명의는 SOUND HOLIC feat. Nana Takahashi.
+beatmania IIDX 의 수록곡. 명의는 SOUND HOLIC feat. Nana Takahashi.
 
 작곡/작사/보컬은 타카하시 나나. 편곡은 MasKaleido.
 
