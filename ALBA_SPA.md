@@ -1,5 +1,7 @@
 ## ALBA ~ 黎明 ~ SPA
 
-`<iframe width="560" height="315" src="https://www.youtube.com/embed/ZE54ZrUxsMo" frameborder="0" allowfullscreen></iframe>`
+[![Video](http://img.youtube.com/vi/ZE54ZrUxsMo/0.jpg)](https://www.youtube.com/embed/ZE54ZrUxsMo?t=0s) 
 
-### 하이퍼링크 : [https://www.youtube.com/embed/ZE54ZrUxsMo]
+
+
+영상 테스트
