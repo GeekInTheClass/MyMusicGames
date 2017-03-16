@@ -27,7 +27,7 @@ SOUND VOLTEX III -GRAVITY WARS-의 수록곡.
 
 GRAVITY 보면 플레이 영상
 
-[![Video Label](http://img.youtube.com/vi/DROJgIbEPBE/0.jpg)](https://youtu.be/DROJgIbEPBE)
+[![Video Label](http://img.youtube.com/vi/DROJgIbEPBE/0.jpg)](https://youtu.be/DROJgIbEPBE?t=0s)
 
 
 
