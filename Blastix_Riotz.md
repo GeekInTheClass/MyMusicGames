@@ -16,10 +16,15 @@ SOUND VOLTEX III -GRAVITY WARS-의 수록곡.
 
 ## 2. SOUND VOLETX 난이도 체계
 
-- NOVICE(6) - 555
-- ADVANCE(12) - 996
-- EXHAUST(18) - 2137
-- GRAVITY(19) - 2246
+
+
+| 난이도명 | NOVICE | ADVANCE | EXHAUST | GRAVITY |
+| :--: | :----: | :-----: | :-----: | :-----: |
+|  레벨  |   6    |   12    |   18    |   19    |
+| 체인 수 |  555   |   996   |  2137   |  2246   |
+
+
+
 
 
 
