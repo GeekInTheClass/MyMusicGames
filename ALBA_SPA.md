@@ -48,7 +48,7 @@ Avanzare! Avanzare!
 
 戦う誇りを胸に Natus Vincere 
 
-싸우는 긍지를 가슴에 품고 Natus Vincere[[1\]](https://namu.wiki/w/ALBA%20-%E9%BB%8E%E6%98%8E-#fn-1) 
+싸우는 긍지를 가슴에 품고 Natus Vincere
 
 革命を今...
 
