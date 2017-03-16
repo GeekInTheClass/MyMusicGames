@@ -102,7 +102,7 @@ Avanzare! Avanzare!
 
 ## 3. 플레이 영상
 
-
+SP Another 보면
 
 [![Video](http://img.youtube.com/vi/ZE54ZrUxsMo/0.jpg)](https://www.youtube.com/embed/ZE54ZrUxsMo?t=0s) 
 
