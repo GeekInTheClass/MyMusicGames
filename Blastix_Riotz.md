@@ -1,6 +1,6 @@
 # Blastix Riotz
 
-![http://p.eagate.573.jp/game/sdvx/iv/p/common/imagebinary.html?img=UDIrAxonliy6kGBNMyBQNDb29OEPACYhgSw6R9LaLm6o65KZq52DYIiMrfGj%2BsWn](Riot)
+![Riot](http://i.imgur.com/kDqCZDo.png)
 
 
 
