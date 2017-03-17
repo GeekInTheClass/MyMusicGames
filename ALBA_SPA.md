@@ -1,5 +1,9 @@
 ## ALBA -黎明-
 
+[TOC]
+
+
+
 ## 1. 개요
 
 beatmania IIDX 의 수록곡. 명의는 SOUND HOLIC feat. Nana Takahashi.
